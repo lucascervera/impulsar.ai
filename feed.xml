@@ -3,7 +3,7 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2023-11-17T06:49:56+01:00</updated>
+    <updated>2023-11-17T10:09:08+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
@@ -17,15 +17,37 @@
         <link href="https://impulsar.ai/impulsarai/"/>
         <id>https://impulsar.ai/impulsarai/</id>
 
-        <updated>2023-11-17T06:49:56+01:00</updated>
+        <updated>2023-11-17T10:09:08+01:00</updated>
             <summary>
                 <![CDATA[
-                    La Inteligencia Artificial lo está cambiando todo. Puedes ver cómo pasa... ¿o quieres ser parte?
+                    La Inteligencia Artificial lo está cambiando todo. Puedes ver cómo pasa... ¿o quieres ser parte? Impulsar.ai es una plataforma de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial. ¿Cómo puedo participar? Hay&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1>La Inteligencia Artificial lo está cambiando todo. Puedes ver cómo pasa... ¿o quieres ser parte?</h1>
+                <h2>La Inteligencia Artificial lo está cambiando todo.</h2>
+<h2>Puedes ver cómo pasa... ¿o quieres ser parte?</h2>
+<h4>Impulsar.ai es una plataforma de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial.</h4>
+<h2>¿Cómo puedo participar?</h2>
+<p>Hay 3 tipos de roles en esta comunidad (un participante puede asumir distintos roles):</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 33.2843%;"><strong>Promotores</strong></td>
+<td class="align-center" style="width: 33.2843%;"><strong>Impulsores</strong></td>
+<td class="align-center" style="width: 33.2889%;"><strong>Interesados</strong></td>
+</tr>
+<tr>
+<td class="align-center" style="width: 33.2843%;">Personas con perfil emprendedor que tienen una idea o proyecto en el campo de la inteligencia artificial</td>
+<td class="align-center" style="width: 33.2843%;">Especialistas en algún campo determinado que quieren aprender sobre inteligencia artificial ayudando a los promotores a avanzar en su proyecto</td>
+<td class="align-center" style="width: 33.2889%;">Personas interesadas en conocer de primera mano los detalles de cómo se pone en marcha un proyecto de inteligencia artificial</td>
+</tr>
+</tbody>
+</table>
+<p>Por ejemplo imaginemos que Ana, una abogada peruana, comienza participando como <strong>interesada</strong>, aprende sobre inteligencia artificial y conoce las experiencias de los promotores que están poniendo en marcha sus proyectos a través de vídeos y eventos.</p>
+<p>Durante unos meses colabora como <strong>impulsora </strong>asesorando en temas legales a varios promotores, aplicando sus conocimientos en distintos proyectos, aprendiendo sobre la aplicación de la inteligencia artificial en el mundo real y obteniendo reconocimiento por su ayuda.</p>
+<p>6 meses después se le ocurre una idea para aplicar la inteligencia artificial a la gestión de contratos en la industria discográfica. Gracias a su participación como impulsora, ahora puede recibir también ayuda para su proyecto como <strong>promotora</strong>. Junto con Juan ( un estudiante de informática malagueño, promotor de un proyecto que ha contado con la ayuda de Ana como impulsora) le dan forma al proyecto y definen cómo se podría implementar.</p>
+<p>Tras definir y validar el modelo de negocio como promotores con la ayuda de varios impulsores expertos en distintas áreas, Ana y Juan deciden co-fundar una empresa para comercializar el producto.</p>
             ]]>
         </content>
     </entry>
