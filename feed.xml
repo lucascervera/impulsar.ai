@@ -3,7 +3,7 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2023-11-17T15:57:34+01:00</updated>
+    <updated>2023-11-17T15:59:46+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://impulsar.ai/unete-a-impulsarai/"/>
         <id>https://impulsar.ai/unete-a-impulsarai/</id>
 
-        <updated>2023-11-17T14:23:30+01:00</updated>
+        <updated>2023-11-17T15:59:46+01:00</updated>
             <summary>
                 <![CDATA[
                     Loading…
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSc87uV7tvKRndu5boQ-til9KrEDSz5GpXyyZvbrxhflbyDNQw/viewform?embedded=true" width="640" height="778" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSc87uV7tvKRndu5boQ-til9KrEDSz5GpXyyZvbrxhflbyDNQw/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
             ]]>
         </content>
     </entry>
