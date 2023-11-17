@@ -3,7 +3,7 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2023-11-17T15:32:23+01:00</updated>
+    <updated>2023-11-17T15:36:09+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
@@ -85,7 +85,7 @@
         <link href="https://impulsar.ai/impulsarai/"/>
         <id>https://impulsar.ai/impulsarai/</id>
 
-        <updated>2023-11-17T15:32:23+01:00</updated>
+        <updated>2023-11-17T15:36:09+01:00</updated>
             <summary>
                 <![CDATA[
                     La Inteligencia Artificial lo cambia todo. Vas a verlo pasar... ¿o quieres participar? Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial. Vamos a celebrar el primer cumpleaños&hellip;
@@ -93,13 +93,14 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>La Inteligencia Artificial lo cambia todo. Vas a verlo pasar... ¿o quieres participar?</h2>
+                <h3>La Inteligencia Artificial lo cambia todo. Vas a verlo pasar... ¿o quieres participar?</h3>
 <p>Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
-<h2>Evento de lanzamiento de impulsar.ai</h2>
+<h4>Evento de lanzamiento de impulsar.ai</h4>
+<h3 class="align-center msg msg--highlight  msg--info msg--warning"><span style="color: #236fa1;"><a href="https://impulsar.ai/unete-a-impulsarai/" style="color: #236fa1;">Únete a impulsar.ai para asistir al evento</a></span></h3>
 <ul>
 <li>📅 Fecha: 30 de noviembre de 18 a 20h</li>
 <li>💵 Precio: gratuíto</li>
@@ -114,7 +115,6 @@
 <li>Learning bites donde compartiremos algunos trucos de la tecnología</li>
 <li>Think tank para debatir en grupos de trabajo sobre temas candentes del sector</li>
 </ul>
-<h3 class="align-center msg msg--highlight  msg--info msg--warning"><span style="color: #e03e2d;"><a href="https://impulsar.ai/unete-a-impulsarai/" style="color: #e03e2d;">Únete a impulsar.ai para asistir al evento</a></span></h3>
 </td>
 </tr>
 </tbody>
