@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>impulsar.ai</title>
+    <link href="https://impulsar.ai/feed.xml" rel="self" />
+    <link href="https://impulsar.ai" />
+    <updated>2023-11-17T06:49:56+01:00</updated>
+    <author>
+        <name>impulsar.ai</name>
+    </author>
+    <id>https://impulsar.ai</id>
+
+    <entry>
+        <title>impulsar.ai</title>
+        <author>
+            <name>impulsar.ai</name>
+        </author>
+        <link href="https://impulsar.ai/impulsarai/"/>
+        <id>https://impulsar.ai/impulsarai/</id>
+
+        <updated>2023-11-17T06:49:56+01:00</updated>
+            <summary>
+                <![CDATA[
+                    La Inteligencia Artificial lo está cambiando todo. Puedes ver cómo pasa... ¿o quieres ser parte?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>La Inteligencia Artificial lo está cambiando todo. Puedes ver cómo pasa... ¿o quieres ser parte?</h1>
+            ]]>
+        </content>
+    </entry>
+</feed>
