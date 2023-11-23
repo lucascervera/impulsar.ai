@@ -3,7 +3,7 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2023-11-23T10:59:20+01:00</updated>
+    <updated>2023-11-23T14:11:38+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
@@ -85,7 +85,7 @@
         <link href="https://impulsar.ai/impulsarai/"/>
         <id>https://impulsar.ai/impulsarai/</id>
 
-        <updated>2023-11-23T10:59:20+01:00</updated>
+        <updated>2023-11-23T14:11:38+01:00</updated>
             <summary>
                 <![CDATA[
                     La Inteligencia Artificial lo cambia todo. Vas a verlo pasar... ¿o quieres participar? Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial. Únete a impulsar.ai para asistir al&hellip;
@@ -95,13 +95,10 @@
             <![CDATA[
                 <h3>La Inteligencia Artificial lo cambia todo. Vas a verlo pasar... ¿o quieres participar?</h3>
 <p>Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial.</p>
-<table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-color: #34495e;" border="1">
-<tbody>
-<tr>
-<td style="width: 99.8575%;">
+<div style="background-color: whitesmoke;">
 <h2>Evento impulsar.ai</h2>
 <ul>
-<li>📅 Fecha: 30 de noviembre de 18 a 20h</li>
+<li>📅 Fecha: 30 de noviembre de 18 a 20h (hora de España)</li>
 <li>💵 Precio: gratuíto</li>
 <li>💻 Formato: online</li>
 </ul>
@@ -134,10 +131,7 @@
 <div><strong>Speed networking:</strong> Momento para conocer a otros participantes en la comunidad y compartir feedback sobre sus proyectos</div>
 <div><strong style="font-family: var(--editor-font-family); font-size: inherit;">Canales de startup</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> Los emprendedores que han presentado su startup podrán responder preguntas y recibir feedback de los participantes en el evento</span></div>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
 <h3>Qué es impulsar.ai</h3>
 <p>Somos una plataforma de impulso de proyectos de IA. Nuestra comunidad tiene 3 tipos de roles:</p>
 <ul>
