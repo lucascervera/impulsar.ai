@@ -3,12 +3,52 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2023-11-24T10:05:29+01:00</updated>
+    <updated>2023-11-26T09:32:25+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
     <id>https://impulsar.ai</id>
 
+    <entry>
+        <title>miembros</title>
+        <author>
+            <name>impulsar.ai</name>
+        </author>
+        <link href="https://impulsar.ai/miembros/"/>
+        <id>https://impulsar.ai/miembros/</id>
+
+        <updated>2023-11-26T09:32:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Simpatizantes Si únicamente quieres seguir por streaming la entrevista y la presentación de proyectos puedes hacerlo pinchando en el siguiente enlace: únete a impulsar.ai [[web/miembros]] Añade el evento a tu calendario Interesados Si además de seguir por streaming el evento quieres hacer comentarios o preguntas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>Simpatizantes<ul>
+<li>Si únicamente quieres seguir por streaming la entrevista y la presentación de proyectos puedes hacerlo pinchando en el siguiente enlace:<ul>
+<li><a href="https://impulsar.ai/unete-a-impulsarai/">únete a impulsar.ai</a></li>
+<li>[[web/miembros]]</li>
+<li><a href="https://calendar.google.com/calendar/u/0/r/eventedit?dates=20231130T180000/20231130T180000&details=%F0%9F%93%85+Fecha:+30+de+noviembre+de+18+a+20h+(hora+de+Espa%C3%B1a)%0A%F0%9F%92%B5+Precio:+gratu%C3%ADto%0A%F0%9F%92%BB+Formato:+online%0A%0ACon+motivo+del+primer+aniversario+del+nacimiento+de+ChatGPT+queremos+juntarnos+un+grupo+de+emprendedores+para+compartir+experiencias+en+el+desarrollo+de+proyectos+de+Inteligencia+Artificial.+El+primer+encuentro+de+la+comunidad+impulsar.ai+se+celebrar%C3%A1+el+30+de+noviembre+de+18+a+20h+de+manera+online+y+estar%C3%A1+lleno+de+actividades+en+las+que+descubrir+y+compartir+proyectos+de++Inteligencia+Artificial.%0A%0AEntrevista+a+Javier+L%C3%B3pez%0A%0ACofundador+y+former-CEO+de+Erasmusu+desde+2008+hasta+2021,+adquirida+por+Spotahome+en+2018.+Inversor+en+startups.+Actualmente+poniendo+en+marcha+el+proyecto+magnific.ai%0A%0APresentaci%C3%B3n+de+startups%0A%0APitch+de+4+de+las+startups+m%C3%A1s+interesantes+del+panorama+de+la+Inteligencia+Artificial+en+espa%C3%B1ol&location=Discord:+impulsar.ai+server,+escenario&text=Evento+impulsar.ai">Añade el evento a tu calendario</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Interesados<ul>
+<li>Si además de seguir por streaming el evento quieres hacer comentarios o preguntas y participar en las actividades de networking:<ul>
+<li>Crea una cuenta de discord para abrirte al servidor de impulsar.ai</li>
+<li><a href="https://discord.com/events/1175710332715532348/1178053564543815810">https://discord.com/events/1175710332715532348/1178053564543815810</a></li>
+<li>Únete al canal “escenario”</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Únete a impulsar.ai</title>
         <author>
