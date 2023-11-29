@@ -3,7 +3,7 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2023-11-29T14:20:03+01:00</updated>
+    <updated>2023-11-29T15:55:28+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://impulsar.ai/crear-una-cuenta-de-discord/"/>
         <id>https://impulsar.ai/crear-una-cuenta-de-discord/</id>
 
-        <updated>2023-11-29T13:02:31+01:00</updated>
+        <updated>2023-11-29T14:34:34+01:00</updated>
             <summary>
                 <![CDATA[
-                    Crea tu cuenta de Discord Te recomendamos que visualices el siguiente vídeo para crear tu cuenta de Discord en menos de 5 minutos: Abrir vídeo en una ventana independiente Enlace al servidor de Discord de impulsar.ai: https://discord.gg/rkd2qA3zS4 Regístrate en Discord Visita el sitio web de&hellip;
+                    Crea tu cuenta de Discord ⚠️ Para darte de alta necesitarás el siguiente enlace al servidor de Discord de impulsar.ai: https://discord.gg/KXyTX4pnNK Te recomendamos que visualices el siguiente vídeo para crear tu cuenta de Discord en menos de 5 minutos: Abrir vídeo en una ventana independiente&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Crea tu cuenta de Discord</h2>
+<p class="msg msg--warning align-center">⚠️ Para darte de alta necesitarás el siguiente enlace al servidor de Discord de impulsar.ai:<br><code>https://discord.gg/KXyTX4pnNK</code></p>
 <p>Te recomendamos que visualices el siguiente vídeo para crear tu cuenta de Discord en menos de 5 minutos:</p>
 <p><a href="https://www.youtube.com/watch?v=9D_CnOGTpU0&amp;t=3s" target="_blank" rel="noopener noreferrer">Abrir vídeo en una ventana independiente</a> <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/9D_CnOGTpU0?si=nCmuObv-2OkbXS-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <ul>
@@ -76,7 +77,7 @@
         <link href="https://impulsar.ai/miembros/"/>
         <id>https://impulsar.ai/miembros/</id>
 
-        <updated>2023-11-29T14:20:03+01:00</updated>
+        <updated>2023-11-29T15:55:28+01:00</updated>
             <summary>
                 <![CDATA[
                     Para participar en los eventos de impulsar.AI deberás crear una cuenta de discord y unirte al servidor de impulsar.ai. Discord es una plataforma de comunicación digital que permite a los usuarios crear y unirse a comunidades virtuales, conocidas como "servidores". ⚠️ Para darte de alta&hellip;
@@ -90,6 +91,8 @@
 <h4>Todavía no tengo una cuenta de discord</h4>
 <p>Consulta esta guía con un vídeo explicativo para crear tu cuenta de discord y añadir nuestro servidor: <a href="https://impulsar.ai/crear-una-cuenta-de-discord/" target="_blank" rel="noopener noreferrer">Cómo crear una cuenta de discord</a></p>
 <h4>Ya tengo una cuenta de discord</h4>
+<p><a href="https://www.youtube.com/watch?v=FuKLNQAThnk" target="_blank" rel="noopener noreferrer">Abrir el vídeo en una ventana independiente</a></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/FuKLNQAThnk?si=2tT8t7mOQTikDt1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <p>Si ya tienes una cuenta de discord creada, añade el servidor de impulsar.ai:</p>
 <p>Enlace al <a href="https://discord.gg/KXyTX4pnNK" target="_blank" rel="noopener noreferrer">servidor de Discord de impulsar.ai</a>:</p>
 <p><code>https://discord.gg/KXyTX4pnNK</code></p>
