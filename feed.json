@@ -14,14 +14,14 @@
             "url": "https://impulsar.ai/crear-una-cuenta-de-discord/",
             "title": "Crear una cuenta de discord",
             "summary": "Crea tu cuenta de Discord ⚠️ Para darte de alta necesitarás el siguiente enlace al servidor de Discord de impulsar.ai: https://discord.gg/KXyTX4pnNK Te recomendamos que visualices el siguiente vídeo para crear tu cuenta de Discord en menos de 5 minutos: Abrir vídeo en una ventana independiente",
-            "content_html": "<h2>Crea tu cuenta de Discord</h2>\n<p class=\"msg msg--warning align-center\">⚠️ Para darte de alta necesitarás el siguiente enlace al servidor de Discord de impulsar.ai:<br><code>https://discord.gg/KXyTX4pnNK</code></p>\n<p>Te recomendamos que visualices el siguiente vídeo para crear tu cuenta de Discord en menos de 5 minutos:</p>\n<p><a href=\"https://www.youtube.com/watch?v=9D_CnOGTpU0&amp;t=3s\" target=\"_blank\" rel=\"noopener noreferrer\">Abrir vídeo en una ventana independiente</a> <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9D_CnOGTpU0?si=nCmuObv-2OkbXS-2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
+            "content_html": "<h2>Crea tu cuenta de Discord</h2>\n<p class=\"msg msg--warning align-center\">⚠️ Para darte de alta necesitarás el siguiente enlace al servidor de Discord de impulsar.ai:<br><code>https://discord.gg/KXyTX4pnNK</code></p>\n<p>Te recomendamos que visualices el siguiente vídeo para crear tu cuenta de <a href=\"https://discord.com\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> en menos de 5 minutos:</p>\n<p><a href=\"https://www.youtube.com/watch?v=9D_CnOGTpU0&amp;t=3s\" target=\"_blank\" rel=\"noopener noreferrer\">Abrir vídeo en una ventana independiente</a></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9D_CnOGTpU0?si=nCmuObv-2OkbXS-2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
             "author": {
                 "name": "impulsar.ai"
             },
             "tags": [
             ],
             "date_published": "2023-11-29T12:59:31+01:00",
-            "date_modified": "2023-11-29T19:42:08+01:00"
+            "date_modified": "2023-11-29T19:44:08+01:00"
         },
         {
             "id": "https://impulsar.ai/miembros/",
