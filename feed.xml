@@ -3,7 +3,7 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2023-11-29T13:10:50+01:00</updated>
+    <updated>2023-11-29T14:00:16+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
@@ -76,19 +76,21 @@
         <link href="https://impulsar.ai/miembros/"/>
         <id>https://impulsar.ai/miembros/</id>
 
-        <updated>2023-11-29T13:10:50+01:00</updated>
+        <updated>2023-11-29T14:00:16+01:00</updated>
             <summary>
                 <![CDATA[
-                    Para participar en los eventos de impulsar.AI deberás crear una cuenta de discord y unirte al servidor de impulsar.ai. Discord es una plataforma de comunicación digital que permite a los usuarios crear y unirse a comunidades virtuales, conocidas como "servidores". Si ya tienes creada tu&hellip;
+                    Para participar en los eventos de impulsar.AI deberás crear una cuenta de discord y unirte al servidor de impulsar.ai. Discord es una plataforma de comunicación digital que permite a los usuarios crear y unirse a comunidades virtuales, conocidas como "servidores". ⚠️ Para darte de alta&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Para participar en los eventos de impulsar.AI deberás crear una cuenta de discord y unirte al servidor de impulsar.ai.</p>
 <p>Discord es una plataforma de comunicación digital que permite a los usuarios crear y unirse a comunidades virtuales, conocidas como "servidores".</p>
-<h2><a href="https://impulsar.ai/crear-una-cuenta-de-discord/" target="_blank" rel="noopener noreferrer">Cómo crear una cuenta de discord</a></h2>
-<h2>Añade el servidor de impulsar.ai</h2>
-<p>Si ya tienes creada tu cuenta de discord, añade el servidor de impulsar.ai:</p>
+<p class="msg msg--warning align-center">⚠️ Para darte de alta necesitarás el siguiente enlace al servidor de Discord de impulsar.ai:<br><code>https://discord.gg/rkd2qA3zS4</code></p>
+<h2>Todavía no tengo una cuenta de discord</h2>
+<p>Consulta esta guía con un vídeo explicativo para crear tu cuenta de discord y añadir nuestro servidor: <a href="https://impulsar.ai/crear-una-cuenta-de-discord/" target="_blank" rel="noopener noreferrer">Cómo crear una cuenta de discord</a></p>
+<h2>Ya tengo una cuenta de discord</h2>
+<p>Si ya tienes una cuenta de discord creada, añade el servidor de impulsar.ai:</p>
 <ul>
 <li>Enlace al servidor de Discord de impulsar.ai:</li>
 <li><code> <a href="https://discord.gg/rkd2qA3zS4">https://discord.gg/rkd2qA3zS4</a></code></li>
@@ -107,15 +109,17 @@
         <link href="https://impulsar.ai/unete-a-impulsarai/"/>
         <id>https://impulsar.ai/unete-a-impulsarai/</id>
 
-        <updated>2023-11-17T15:59:46+01:00</updated>
+        <updated>2023-11-29T13:49:27+01:00</updated>
             <summary>
                 <![CDATA[
-                    Loading…
+                    Para unirte a la comunidad impulsar.AI facilítanos tu correo: https://impulsarai.substack.com/
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSc87uV7tvKRndu5boQ-til9KrEDSz5GpXyyZvbrxhflbyDNQw/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
+                <p>Para unirte a la comunidad impulsar.AI facilítanos tu correo:</p>
+<p><a href="https://impulsarai.substack.com/">https://impulsarai.substack.com/</a></p>
+
             ]]>
         </content>
     </entry>
