@@ -3,12 +3,90 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2023-11-30T12:05:00+01:00</updated>
+    <updated>2023-12-01T10:50:12+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
     <id>https://impulsar.ai</id>
 
+    <entry>
+        <title>Actividades</title>
+        <author>
+            <name>impulsar.ai</name>
+        </author>
+        <link href="https://impulsar.ai/actividades/"/>
+        <id>https://impulsar.ai/actividades/</id>
+
+        <updated>2023-12-01T10:39:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Evento de presentación de impulsar.ai 📅 Fecha: 30 de noviembre de 18 a 20h (hora de España) 💵 Precio: gratuíto 💻 Formato: online Con motivo del primer aniversario del nacimiento de ChatGPT queremos juntarnos un grupo de emprendedores para compartir experiencias en el desarrollo de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Evento de presentación de impulsar.ai</h2>
+<ul>
+<li>📅 Fecha: 30 de noviembre de 18 a 20h (hora de España)</li>
+<li>💵 Precio: gratuíto</li>
+<li>💻 Formato: online</li>
+</ul>
+<p>Con motivo del <strong>primer aniversario del nacimiento de ChatGPT</strong> queremos juntarnos un grupo de emprendedores para compartir experiencias en el desarrollo de proyectos de Inteligencia Artificial. El primer encuentro de la comunidad impulsar.ai se celebrará el <strong>30 de noviembre de 18 a 20h de manera online</strong> y estará lleno de actividades en las que descubrir y compartir proyectos de otros impulsores de la Inteligencia Artificial.</p>
+<h4><strong>Entrevista a <a href="https://javilop.com" target="_blank" rel="noopener noreferrer">Javier López</a></strong></h4>
+<p>Cofundador y former-CEO de Erasmusu desde 2008 hasta 2021, <a href="https://techcrunch.com/2018/03/12/spotahome-acquires-erasmusu/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAAlNk_A-GaI6HiwiAI8T89ImRnewgBtERL7V9vMzSFZR5u3M9MdJAoU4CLBK-mK8-0S8vmx0x18Vc04M5EyuofDYHindq86YNuTu1Fj_k9poAsP8NbLI1lQrTtHgbonUTS7BHKKarPMwUwEVLofT-lCergVKX6gghnuUyYdYNWzR" target="_blank" rel="noreferrer noopener">adquirida por Spotahome</a> en 2018. <a href="https://www.notion.so/Busco-proyectos-en-los-que-invertir-24a14720a2404e81a6e2ef5c06d4ed0a" target="_blank" rel="noreferrer noopener">Inversor en startups.</a> Actualmente poniendo en marcha el proyecto <a href="https://magnific.ai/" title="https://magnific.ai/" target="_blank" rel="noopener noreferrer">magnific.ai</a></p>
+<h4>Presentación de startups</h4>
+<p><br>Pitch de 4 de las startups más interesantes del panorama de la Inteligencia Artificial en español:</p>
+<div>
+<ul>
+<li><a href="https://ecuademy.app/" target="_blank" rel="noopener noreferrer">Ecuademy</a> (Juan Echeverria) La academia de Matemáticas virtual. Mejora tus notas en Mates con la ayuda de nuestra app.</li>
+<li><a href="https://gptadvisor.com/" target="_blank" rel="noopener noreferrer">GPTadvisor</a> (Boro Mas) Start up dedicada a desarrollar modelos de inteligencia artificial dirigidos al sector de gestión patrimonial.</li>
+<li><a href="https://www.maite.ai" target="_blank" rel="noopener noreferrer">Maite.ai</a> (Alejandro Castellano) Tu alter ego jurídico. Consigue más clientes en menos tiempo.</li>
+<li><a href="https://www.ai-os.es/" target="_blank" rel="noopener noreferrer">AIOS</a> (David Macías) Una metodología que, gracias a la IA, permite alinear equipos y sistematizar la compañía.</li>
+</ul>
+</div>
+<h4>Networking</h4>
+<div>
+<div>Tras la presentación de los proyectos los emprendedores podrán responder preguntas y recibir feedback de los participantes en el evento</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sobre nosotros</title>
+        <author>
+            <name>impulsar.ai</name>
+        </author>
+        <link href="https://impulsar.ai/sobre-nosotros/"/>
+        <id>https://impulsar.ai/sobre-nosotros/</id>
+
+        <updated>2023-12-01T10:44:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Para contactar con nosotros escribe un correo a impulsarai@gmail.com Los promotores de este proyecto son Javier y Lucas, co-fundadores de Iniciador. Javier Martín, director de Innovación Abierta de SNGULAR, cofundador de Loogic e Iniciador Lucas Cervera, cofundador de 3 startups e Iniciador, profesor y asesor&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--info align-center">Para contactar con nosotros escribe un correo a <a href="mailto:impulsarai@gma">impulsarai@gmail.com</a></p>
+<h5>Promotores</h5>
+<p>Los promotores de este proyecto son Javier y Lucas, co-fundadores de <a href="#INTERNAL_LINK#/post/null">Iniciador</a>.</p>
+<table border="1">
+<tbody>
+<tr>
+<td>
+<figure class="post__image"><img loading="lazy"  src="https://impulsar.ai/media/posts/10/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-2xl.png" alt="" width="240" height="240" sizes="100vw" srcset="https://impulsar.ai/media/posts/10/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-2xl-xs.png 300w ,https://impulsar.ai/media/posts/10/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-2xl-sm.png 480w ,https://impulsar.ai/media/posts/10/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-2xl-md.png 768w ,https://impulsar.ai/media/posts/10/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-2xl-lg.png 1024w ,https://impulsar.ai/media/posts/10/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-2xl-xl.png 1360w ,https://impulsar.ai/media/posts/10/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-2xl-2xl.png 1600w"></figure>
+</td>
+<td> <a href="https://www.linkedin.com/in/liderarmente/" target="_blank" rel="noopener noreferrer">Javier Martín</a>, director de Innovación Abierta de SNGULAR, cofundador de Loogic e Iniciador</td>
+</tr>
+<tr>
+<td><figure class="post__image"><img loading="lazy"  src="https://impulsar.ai/media/posts/10/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-2xl.png" alt="" width="240" height="240" sizes="100vw" srcset="https://impulsar.ai/media/posts/10/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-2xl-xs.png 300w ,https://impulsar.ai/media/posts/10/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-2xl-sm.png 480w ,https://impulsar.ai/media/posts/10/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-2xl-md.png 768w ,https://impulsar.ai/media/posts/10/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-2xl-lg.png 1024w ,https://impulsar.ai/media/posts/10/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-2xl-xl.png 1360w ,https://impulsar.ai/media/posts/10/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-2xl-2xl.png 1600w"></figure></td>
+<td> <a href="https://lucascervera.com" target="_blank" rel="noopener noreferrer">Lucas Cervera</a>, cofundador de 3 startups e Iniciador, profesor y asesor en innovación y diseño de negocio.</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Crear una cuenta de discord</title>
         <author>
@@ -152,42 +230,20 @@
         <link href="https://impulsar.ai/impulsarai/"/>
         <id>https://impulsar.ai/impulsarai/</id>
 
-        <updated>2023-11-30T09:30:46+01:00</updated>
+        <updated>2023-12-01T10:50:12+01:00</updated>
             <summary>
                 <![CDATA[
-                    La Inteligencia Artificial lo cambia todo. Vas a verlo pasar... ¿o quieres participar? Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial. Únete a impulsar.ai para asistir al&hellip;
+                    La Inteligencia Artificial lo cambia todo. Vas a verlo pasar... ¿o quieres participar? Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial. Somos una plataforma de impulso de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h3>La Inteligencia Artificial lo cambia todo. Vas a verlo pasar... ¿o quieres participar?</h3>
 <p>Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial.</p>
+<p> </p>
 <div>
-<h2>Evento impulsar.ai</h2>
-<ul>
-<li>📅 Fecha: 30 de noviembre de 18 a 20h (hora de España)</li>
-<li>💵 Precio: gratuíto</li>
-<li>💻 Formato: online</li>
-</ul>
-<p><a href="https://impulsar.ai/unete-a-impulsarai/" target="_blank" rel="noopener noreferrer"><button>Únete a impulsar.ai para asistir al evento</button></a></p>
-<p><a href="https://impulsar.ai/miembros/" target="_blank" rel="noopener noreferrer"><button>Ya soy miembro y quiero asistir al evento</button></a></p>
-<p>Con motivo del <strong>primer aniversario del nacimiento de ChatGPT</strong> queremos juntarnos un grupo de emprendedores para compartir experiencias en el desarrollo de proyectos de Inteligencia Artificial. El primer encuentro de la comunidad impulsar.ai se celebrará el <strong>30 de noviembre de 18 a 20h de manera online</strong> y estará lleno de actividades en las que descubrir y compartir proyectos de otros impulsores de la Inteligencia Artificial.</p>
-<h4><strong>Entrevista a <a href="https://javilop.com" target="_blank" rel="noopener noreferrer">Javier López</a></strong></h4>
-<p><img loading="lazy" src="https://impulsar.ai/media/posts/4/PXL_20220210_152757866.PORTRAIT-1-1024x1024-2.jpg" alt="" width="74" height="74" sizes="100vw" srcset="https://impulsar.ai/media/posts/4/responsive/PXL_20220210_152757866.PORTRAIT-1-1024x1024-2-xs.jpg 300w ,https://impulsar.ai/media/posts/4/responsive/PXL_20220210_152757866.PORTRAIT-1-1024x1024-2-sm.jpg 480w ,https://impulsar.ai/media/posts/4/responsive/PXL_20220210_152757866.PORTRAIT-1-1024x1024-2-md.jpg 768w ,https://impulsar.ai/media/posts/4/responsive/PXL_20220210_152757866.PORTRAIT-1-1024x1024-2-lg.jpg 1024w ,https://impulsar.ai/media/posts/4/responsive/PXL_20220210_152757866.PORTRAIT-1-1024x1024-2-xl.jpg 1360w ,https://impulsar.ai/media/posts/4/responsive/PXL_20220210_152757866.PORTRAIT-1-1024x1024-2-2xl.jpg 1600w"></p>
-<p>Cofundador y former-CEO de Erasmusu desde 2008 hasta 2021, <a href="https://techcrunch.com/2018/03/12/spotahome-acquires-erasmusu/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAAlNk_A-GaI6HiwiAI8T89ImRnewgBtERL7V9vMzSFZR5u3M9MdJAoU4CLBK-mK8-0S8vmx0x18Vc04M5EyuofDYHindq86YNuTu1Fj_k9poAsP8NbLI1lQrTtHgbonUTS7BHKKarPMwUwEVLofT-lCergVKX6gghnuUyYdYNWzR" target="_blank" rel="noreferrer noopener">adquirida por Spotahome</a> en 2018. <a href="https://www.notion.so/Busco-proyectos-en-los-que-invertir-24a14720a2404e81a6e2ef5c06d4ed0a" target="_blank" rel="noreferrer noopener">Inversor en startups.</a> Actualmente poniendo en marcha el proyecto <a href="https://magnific.ai/" title="https://magnific.ai/" target="_blank" rel="noopener noreferrer">magnific.ai</a></p>
-<h4>Presentación de startups</h4>
-<p><br>Pitch de 4 de las startups más interesantes del panorama de la Inteligencia Artificial en español:</p>
 <div>
-<ul>
-<li><a href="https://ecuademy.app/" target="_blank" rel="noopener noreferrer">Ecuademy</a> (Juan Echeverria) La academia de Matemáticas virtual. Mejora tus notas en Mates con la ayuda de nuestra app.</li>
-<li><a href="https://gptadvisor.com/" target="_blank" rel="noopener noreferrer">GPTadvisor</a> (Boro Mas) Start up dedicada a desarrollar modelos de inteligencia artificial dirigidos al sector de gestión patrimonial.</li>
-<li><a href="https://www.maite.ai" target="_blank" rel="noopener noreferrer">Maite.ai</a> (Alejandro Castellano) Tu alter ego jurídico. Consigue más clientes en menos tiempo.</li>
-<li><a href="https://www.ai-os.es/" target="_blank" rel="noopener noreferrer">AIOS</a> (David Macías) Una metodología que, gracias a la IA, permite alinear equipos y sistematizar la compañía.</li>
-</ul>
-</div>
-<h4>Networking</h4>
-<div>
-<div>Tras la presentación de los proyectos los emprendedores podrán responder preguntas y recibir feedback de los participantes en el evento</div>
+<div><a href="https://impulsar.ai/unete-a-impulsarai/" target="_blank" rel="noopener noreferrer"><button>Únete a impulsar.ai</button></a></div>
 </div>
 </div>
 <h3>Qué es impulsar.ai</h3>
@@ -203,22 +259,6 @@
 <p>Por ejemplo imaginemos que Ana, una abogada peruana, comienza participando como <strong>interesada</strong>. Aprende sobre inteligencia artificial y conoce las experiencias de los promotores que están poniendo en marcha sus proyectos a través de vídeos y eventos.</p>
 <p>Durante unos meses colabora como <strong>especialista </strong>asesorando en temas legales a varios emprendedores, aplicando sus conocimientos en diversos proyectos, aprendiendo cómo se utiliza la inteligencia artificial en el mundo real y obteniendo reconocimiento por su ayuda.</p>
 <p>6 meses después se le ocurre una idea para aplicar la inteligencia artificial a la creación de contratos. Gracias a su participación como especialista, ahora puede recibir también ayuda para su proyecto como <strong>emprendedora</strong>. Junto con Juan (un estudiante de informática malagueño, promotor de un proyecto que ha contado con la ayuda de Ana como especialista) le dan forma al proyecto. Tras definir y validar el modelo de negocio con la ayuda de varios especialistas, Ana y Juan deciden co-fundar una startup.</p>
-<h5>Promotores</h5>
-<p>Los promotores de este proyecto son Javier y Lucas, co-fundadores de <a href="#INTERNAL_LINK#/post/null">Iniciador</a>.</p>
-<table border="1">
-<tbody>
-<tr>
-<td>
-<p><img loading="lazy" src="https://impulsar.ai/media/posts/4/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview.png" alt="" width="240" height="240" sizes="100vw" srcset="https://impulsar.ai/media/posts/4/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-xs.png 300w ,https://impulsar.ai/media/posts/4/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-sm.png 480w ,https://impulsar.ai/media/posts/4/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-md.png 768w ,https://impulsar.ai/media/posts/4/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-lg.png 1024w ,https://impulsar.ai/media/posts/4/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-xl.png 1360w ,https://impulsar.ai/media/posts/4/responsive/WhatsApp_Image_2023-11-17_at_17.51.09-removebg-preview-2xl.png 1600w"></p>
-</td>
-<td> <a href="https://www.linkedin.com/in/liderarmente/" target="_blank" rel="noopener noreferrer">Javier Martín</a>, director de Innovación Abierta de SNGULAR, cofundador de Loogic e Iniciador</td>
-</tr>
-<tr>
-<td><img loading="lazy" src="https://impulsar.ai/media/posts/4/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3.png" alt="" width="240" height="240" sizes="100vw" srcset="https://impulsar.ai/media/posts/4/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-xs.png 300w ,https://impulsar.ai/media/posts/4/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-sm.png 480w ,https://impulsar.ai/media/posts/4/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-md.png 768w ,https://impulsar.ai/media/posts/4/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-lg.png 1024w ,https://impulsar.ai/media/posts/4/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-xl.png 1360w ,https://impulsar.ai/media/posts/4/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl-3-2xl.png 1600w"></td>
-<td> <a href="https://lucascervera.com" target="_blank" rel="noopener noreferrer">Lucas Cervera</a>, cofundador de 3 startups e Iniciador, profesor y asesor en innovación y diseño de negocio.</td>
-</tr>
-</tbody>
-</table>
             ]]>
         </content>
     </entry>
