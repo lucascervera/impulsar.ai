@@ -3,12 +3,47 @@
     <title>impulsar.ai</title>
     <link href="https://impulsar.ai/feed.xml" rel="self" />
     <link href="https://impulsar.ai" />
-    <updated>2024-01-08T17:32:52+01:00</updated>
+    <updated>2024-01-08T18:16:45+01:00</updated>
     <author>
         <name>impulsar.ai</name>
     </author>
     <id>https://impulsar.ai</id>
 
+    <entry>
+        <title>Servicios</title>
+        <author>
+            <name>impulsar.ai</name>
+        </author>
+        <link href="https://impulsar.ai/servicios/"/>
+        <id>https://impulsar.ai/servicios/</id>
+
+        <updated>2024-01-08T18:16:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Pronto disponible Impulsar.ai dispone de un panel de expertos en Inteligencia Artificial, que abarcan: Ofrecemos: Consultoría y asesoramiento sobre cómo puedes utilizar la inteligencia artificial en tu empresa Formación y talleres para qué los miembros de tu organización conozcan las posibilidades de la inteligencia artificial&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight  msg--warning">Pronto disponible</p>
+<p>Impulsar.ai dispone de un panel de expertos en Inteligencia Artificial, que abarcan:</p>
+<ul>
+<li>Conocimiento de distintos <strong>campos, mercados e industrias</strong></li>
+<li>Conocimiento de distintas <strong>funciones dentro de una empresa</strong></li>
+<li>Conocimiento de distintas <strong>tecnologías y herramientas de Inteligencia Artificial</strong></li>
+</ul>
+<p>Ofrecemos:</p>
+<ul>
+<li>Consultoría y asesoramiento sobre cómo puedes utilizar la inteligencia artificial en tu empresa</li>
+<li>Formación y talleres para qué los miembros de tu organización conozcan las posibilidades de la inteligencia artificial y la puedan aplicar en su trabajo.</li>
+<li>Participación como conferenciantes en tu evento corporativo</li>
+<li>Programas para que los miembros de tu organización desarrollen proyectos reales basados en Inteligencia Artificial. Parecido a un hackathon, o propuesta de retos.</li>
+<li>Análisis sobre aspectos de mercado y técnicos en procesos de selección de proyectos (fondos de inversión, programas de aceleración, concursos de startups...)</li>
+<li>Análisis de candidatos en procesos de selección de personal especializado en IA</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Actividades</title>
         <author>

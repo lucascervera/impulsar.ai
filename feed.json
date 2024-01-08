@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://impulsar.ai/servicios/",
+            "url": "https://impulsar.ai/servicios/",
+            "title": "Servicios",
+            "summary": "Pronto disponible Impulsar.ai dispone de un panel de expertos en Inteligencia Artificial, que abarcan: Ofrecemos: Consultoría y asesoramiento sobre cómo puedes utilizar la inteligencia artificial en tu empresa Formación y talleres para qué los miembros de tu organización conozcan las posibilidades de la inteligencia artificial&hellip;",
+            "content_html": "<p class=\"msg msg--highlight  msg--warning\">Pronto disponible</p>\n<p>Impulsar.ai dispone de un panel de expertos en Inteligencia Artificial, que abarcan:</p>\n<ul>\n<li>Conocimiento de distintos <strong>campos, mercados e industrias</strong></li>\n<li>Conocimiento de distintas <strong>funciones dentro de una empresa</strong></li>\n<li>Conocimiento de distintas <strong>tecnologías y herramientas de Inteligencia Artificial</strong></li>\n</ul>\n<p>Ofrecemos:</p>\n<ul>\n<li>Consultoría y asesoramiento sobre cómo puedes utilizar la inteligencia artificial en tu empresa</li>\n<li>Formación y talleres para qué los miembros de tu organización conozcan las posibilidades de la inteligencia artificial y la puedan aplicar en su trabajo.</li>\n<li>Participación como conferenciantes en tu evento corporativo</li>\n<li>Programas para que los miembros de tu organización desarrollen proyectos reales basados en Inteligencia Artificial. Parecido a un hackathon, o propuesta de retos.</li>\n<li>Análisis sobre aspectos de mercado y técnicos en procesos de selección de proyectos (fondos de inversión, programas de aceleración, concursos de startups...)</li>\n<li>Análisis de candidatos en procesos de selección de personal especializado en IA</li>\n</ul>",
+            "author": {
+                "name": "impulsar.ai"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-08T18:16:45+01:00",
+            "date_modified": "2024-01-08T18:16:45+01:00"
+        },
+        {
             "id": "https://impulsar.ai/actividades/",
             "url": "https://impulsar.ai/actividades/",
             "title": "Actividades",
